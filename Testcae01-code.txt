@@ -1,0 +1,13 @@
+public class Localveriable_Practies_1 {
+	public static void main(String[] args) {
+	String id=("My world");
+	int x=123;
+	System.out.println(id);
+	System.out.println(x);
+
+	String data="My world;123";
+	System.out.println(data);
+	int sum=123;
+	System.out.println(sum);
+	}
+}
