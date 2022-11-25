@@ -1,0 +1,12 @@
+public static void main(String[] args) {
+		int id=10;
+		System.out.println(id);
+		int da=437;
+		int dd=254;
+		int aa=232;
+		String name="Sandeep";
+		System.out.println(da);
+		System.out.println(name);
+
+}
+}
